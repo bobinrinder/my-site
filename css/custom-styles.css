@@ -1,0 +1,60 @@
+/* Custom CSS */
+html, body {
+  background-color: #55B8CF;
+  color: white; }
+
+@media (min-width: 992px) {
+  .masthead, .mastfoot, .cover-container {
+    width: 992px; } }
+a, a:link, a:hover, a:visited, a:active {
+  color: white;
+  font-style: italic; }
+
+.fa-li:before {
+  content: "\f0e1"; }
+
+#abilities {
+  margin-bottom: 30px; }
+
+.h5 {
+  font-weight: bold; }
+
+.location {
+  margin-top: -10px;
+  font-size: 14px;
+  font-style: italic; }
+
+.cover-heading {
+  font-weight: bold; }
+
+.cfocus {
+  font-size: 14px; }
+
+#more-link {
+  cursor: pointer;
+  cursor: hand;
+  font-weight: bold; }
+
+#avatar {
+  padding: 5px;
+  border: 1px solid #fff; }
+
+.projectimg {
+  margin: 11px;
+  height: 26px; }
+
+.fa:hover {
+  font-size: 1.5em; }
+
+.label {
+  font-size: 100%;
+  line-height: 2;
+  font-weight: 100; }
+
+#herocont {
+  margin-top: 20px; }
+
+#projects {
+  margin-top: 70px; }
+
+/*# sourceMappingURL=custom-styles2.css.map */
